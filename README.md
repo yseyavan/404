@@ -33,7 +33,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/yseyavan/404-Not-Found/blob/main/pre.png)
+![screenshot](https://github.com/yseyavan/404/blob/main/pre.png)
 
 ## Features
 
